@@ -1,0 +1,1 @@
+# GaleriaDeImagens-React-Projeto06
