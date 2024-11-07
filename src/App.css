@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: rgb(90, 250, 100);
+  background-color: rgb(100, 30, 160);
+}
+
+button {
+  color: rgb(90, 250, 100);
+}
